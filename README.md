@@ -18,11 +18,11 @@ um pequeno lab de conexão de dados com MySQL em container:
 
 
 Resultado final bem sucedido e com vários aprendizados:
-1 - cuidar com o fator de segurança nas conexões de container;
-2 - melhor entendimento da diferença entre imagens e containers;
-3 - comandos docker e o recurso de volume para persistência dos dados;
-4 - ...
+- cuidar com o fator de segurança nas conexões de container;
+- melhor entendimento da diferença entre imagens e containers;
+- comandos docker e o recurso de volume para persistência dos dados;
+- ...
 
 
 Próximo avanço:
-1 - conectar um banco NoSQL e explorar comandos e recursos;
+- conectar um banco NoSQL e explorar comandos e recursos;
